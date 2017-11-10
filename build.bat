@@ -1,0 +1,1 @@
+C:\Python\Python36-32\Scripts\pyinstaller.exe -F ./src/Picks/launch.py
